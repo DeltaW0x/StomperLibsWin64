@@ -3,7 +3,7 @@
 
 ## ffmpeg
 
-1. Open a Visual Studio 2022 Developer prompt
+1. Open a Visual Studio 2022 Developer command prompt
 2. Navigate to `VC\Auxiliary\Build` and run `vcvarsall.bat amd64`
 3. Run `msys2_shell.cmd` from the same command prompt
 4. Run `pacman -S make nasm diffutils pkg-config`
